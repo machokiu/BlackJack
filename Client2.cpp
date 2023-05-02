@@ -5,7 +5,7 @@
 #include <unistd.h>	//sockets
 #include "Player.h"
 
-/*By Daniel Yakovlev 10/26/20
+/*
 Client program that connects to a server using a port, ip address and send data based on a total buffer size of 1500
 multiple repititions can be used to resend data, the program will time the operation and determine how long it takes*/
 
